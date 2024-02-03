@@ -31,6 +31,8 @@ public class calc {
 		int a=sc.nextInt();
 		System.out.println("Enter number : ");
 		int b=sc.nextInt();
+		System.out.println("Enter number : ");
+		int c=sc.nextInt();
 		System.out.println("Enter choice : \n1 Add \n2 Sub \n3 Mul \n4 Div");
 		int choice=sc.nextInt();
 		switch(choice)
